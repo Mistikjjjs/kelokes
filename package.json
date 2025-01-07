@@ -16,7 +16,7 @@
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@hapi/boom": "^10.0.1",
     "@mrnima/tiktok-downloader": "^1.0.0",
-    "@whiskeysockets/baileys": "^6.7.9",
+    "baileys": "github:AxellNetwork/Baileys",
     "axios": "^1.5.1",
     "btch-downloader": "^2.8.2",
     "cache-manager": "^4.0.1",
