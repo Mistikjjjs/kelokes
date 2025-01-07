@@ -1,4 +1,4 @@
-import { DisconnectReason } from "@whiskeysockets/baileys";
+import { DisconnectReason } from "baileys";
 import { connectToWhatsApp } from "../bot.js";
 import { Boom } from "@hapi/boom";
 
