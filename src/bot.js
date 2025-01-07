@@ -2,7 +2,7 @@ import {
   makeWASocket,
   useMultiFileAuthState,
   Browsers,
-} from "@whiskeysockets/baileys";
+} from "baileys";
 import { Collection } from "@discordjs/collection";
 import { createInterface } from "node:readline";
 import { resolve } from "node:path";
